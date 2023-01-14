@@ -1,0 +1,25 @@
+{
+  "name": "donoh_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "knex": "^2.4.0",
+    "nodemailer": "^6.9.0",
+    "nodemon": "^2.0.20",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4",
+    "stripe": "^11.6.0",
+    "uuid": "^9.0.0"
+  }
+}
